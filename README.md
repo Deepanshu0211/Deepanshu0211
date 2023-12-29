@@ -1,20 +1,7 @@
-<h1 align="center">Hi 👋, I'm Deepanshu</h1>
-<h3 align="center">Pythonista in Progress, Future Coder</h3>
+<h1 align="center">I'm Deepanshu</h1>
 <img align="right" alt="earth" width="400" src="https://i0.wp.com/s-ink.org/wp-content/uploads/earth-rot-fancy.gif?resize=200%2C200&ssl=1">
 
-- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Kotlin, C, SQL**
-
-- 👯 I’m looking to collaborate on **anything**
-
-- 🤝 I’m looking for help with **anyone**
-
-- 📫 How to reach me **dy3239073@gmail.com**
-
-- ⚡ Fun fact **solving Rubik's Cubes at lightning speed**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepanshu021111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu021111" height="30" width="40" /></a>
 </p>
