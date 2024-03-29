@@ -1,4 +1,4 @@
-<h2 align="center">I'm Deepanshu and I'm in my learning phase!!! it would be great if you contri<br>Arigatoo</h2>
+<h2 align="center">I'm Deepanshu </h2>
 
 ###
 
