@@ -1,26 +1,9 @@
 # My GitHub Profile
 
 ```python
-class MyGitHubProfile:
-    def __init__(self, name, username, location, bio, img_url, trophies, activity):
-        self.name = name
-        self.username = username
-        self.location = location
-        self.bio = bio
-        self.img_url = img_url
-        self.trophies = trophies
-        self.activity = activity
 
-    def display_profile(self):
-        print(f"Name: {self.name}")
-        print(f"Username: {self.username}")
-        print(f"Location: {self.location}")
-        print(f"Bio: {self.bio}")
-        print(f"![Profile Image]({self.img_url})")
-      
-       
 
-# Replace the placeholder values with your own information
+
 profile = MyGitHubProfile(
     name="Deepanshu",
     username="deepanshu0211",
