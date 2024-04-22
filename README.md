@@ -12,7 +12,7 @@ profile = MyGitHubProfile(
     name="Deepanshu",
     username="deepanshu0211",
     location="India, Uttar pradesh",
-    bio="I watch anime, h and i love playing Games ",
+    bio="I watch anime, h and I love playing Games ",
     hobby="Game, Coding & Anime" ,
     passion="tech, Nature, idk much about now " 
 )
