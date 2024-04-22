@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20👋&height=100&section=header"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Deepanshu0211&label=Profile%20views&color=lightgrey&style=plastic" alt="Deepanshu"/>
+
 
 ```python
 
