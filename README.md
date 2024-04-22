@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20👋&height=100&section=header"/>
-</p>
-<p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-1721.gif" />
 </p>
 
@@ -85,8 +82,6 @@ profile.display_profile()
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
 
 ###
