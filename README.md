@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.pinimg.com/originals/48/81/40/488140d9524d2a5632dad30789d28363.gif"/> <img width="500px" src="https://media2.giphy.com/media/b7d8ZzxqGw4Gpt0qfY/200.gif?cid=6c09b952xz5aqh52pibkdbv7lmcnsuxy1a20o4hq07tjmhy1&ep=v1_internal_gif_by_id&rid=200.gif&ct=g" />
+ <img align="left" src="https://i.pinimg.com/originals/48/81/40/488140d9524d2a5632dad30789d28363.gif"/> <img width="500px" src="https://media2.giphy.com/media/b7d8ZzxqGw4Gpt0qfY/200.gif?cid=6c09b952xz5aqh52pibkdbv7lmcnsuxy1a20o4hq07tjmhy1&ep=v1_internal_gif_by_id&rid=200.gif&ct=g" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&theme=transparent&hide_border=true">
