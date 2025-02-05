@@ -14,12 +14,12 @@ profile = MyGitHubProfile(
     name="Deepanshu",
     username="deepanshu0211",
     location="India, Uttar pradesh",
-    bio="I watch anime, h and I love playing Games ",
+    bio="I watch anime and I love playing Games ",
     hobby="Game, Coding & Anime" ,
     passion="tech, Nature, idk much about now " 
 )
 
-2024 Goals: "Create 50+ Projects and learn at least 5-10 new Technologies"
+2025 Goals: "Create 50+ Projects and learn at least 5-10 new Technologies"
 hobbies: ["Coding", "Music", "Anime", "Game"]
 
 profile.display_profile()
