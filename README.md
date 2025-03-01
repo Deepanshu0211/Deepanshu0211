@@ -19,7 +19,7 @@
 # │ deepanshu@kali:~$ neofetch --user                                                            │
 # │ OS: Kali Linux Rolling  |  Kernel: 6.6.0-kali1-amd64  |  Shell: Zsh                          │
 # │ Packages: 2103          |  Terminal: Alacritty        |  Uptime: 42 days                     │ 
-# │ CPU: Intel i7-12700H    |  GPU: NVIDIA RTX 3060      |  Memory: 16GB RAM                     │
+# │ CPU: Intel i7-12700H    |  GPU: NVIDIA RTX 3060       |  Memory: 16GB RAM                     │
 # ├──────────────────────────────────────────────────────────────────────────────────────────────┤
 # │ deepanshu@kali:~$ git clone --recursive --depth=1 ~/projects                                 │
 # │ Cloning repositories... [███████████████████] 98% Complete...                                │
