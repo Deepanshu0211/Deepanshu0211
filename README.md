@@ -1,87 +1,64 @@
-<p align="center">
- <img src="https://i.pinimg.com/originals/48/81/40/488140d9524d2a5632dad30789d28363.gif"/> 
-</p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&theme=transparent&hide_border=true">
-
-
-
-```python
-
-
-
-profile = MyGitHubProfile(
-    name="Deepanshu",
-    username="deepanshu0211",
-    location="India, Uttar pradesh",
-    bio="I watch anime and I love playing Games ",
-    hobby="Game, Coding & Anime" ,
-    passion="tech, Nature, idk much about now " 
-)
-
-2025 Goals: "Create 50+ Projects and learn at least 5-10 new Technologies"
-hobbies: ["Coding", "Music", "Anime", "Game"]
-
-profile.display_profile()
-
-
-```
-###
-<p align="center">
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  </picture>
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  </picture>
-</p>
-
-
-
-
-###
+```bash
+# ╭──────────────────────────────────────────────────────────────────────────────────╮
+# │  ⬤  ⬤  ⬤   deepanshu@kali:~$                                                   │
+# ├──────────────────────────────────────────────────────────────────────────────────┤
+# │ deepanshu@kali:~$ nmap -A -T4 github.com --open-ports                              │
+# │                                                                                   │
+# │ Starting Nmap 7.94 ( https://nmap.org ) at 2025-03-02                             │
+# │ Scanning GitHub mainframe (140.82.113.3) (255 hosts up)                           │
+# │                                                                                   │
+# │ PORT    STATE SERVICE       VERSION                                              │
+# │ 22/tcp  open  ssh           GitHub Secure Shell v2.0                              │
+# │ 80/tcp  open  http          GitHub Web Server                                     │
+# │ 443/tcp open  https         GitHub Secure API                                     │
+# │ 8080/tcp open  profile-data Extracting repository metadata...                     │
+# │                                                                                   │
+# ├──────────────────────────────────────────────────────────────────────────────────┤
+# │ deepanshu@kali:~$ ssh -p 8080 deepanshu@github.com                               │
+# │ Password: **********                                                              │
+# │ Access granted. Running profile reconnaissance...                                │
+# │                                                                                   │
+# │ SYSTEM INFO:                                                                      │
+# │ ────────────────────────────────────────────────────────────────────────────     │
+# │ OS: Kali Linux Rolling  |  Kernel: 6.6.0-kali1-amd64  |  Shell: Zsh              │
+# │ Packages: 2103          |  Terminal: Alacritty        |  Uptime: 42 days         │
+# │ CPU: Intel i7-12700H    |  GPU: NVIDIA RTX 3060      |  Memory: 16GB RAM         │
+# │                                                                                   │
+# │ USER PROFILE:                                                                     │
+# │ ────────────────────────────────────────────────────────────────────────────     │
+# │ Username:  deepanshu0211                                                          │
+# │ Location:  India, Uttar Pradesh                                                   │
+# │ Bio:       Passionate about coding and technology                                │
+# │ Stack:     JavaScript, Python, React, Next.js, Node.js, MongoDB                  │
+# │ Tools:     Linux, Docker, Kubernetes, AWS                                        │
+# │                                                                                   │
+# ├──────────────────────────────────────────────────────────────────────────────────┤
+# │ deepanshu@kali:~$ git clone --recursive --depth=1 ~/projects                     │
+# │ Cloning repositories...                                                           │
+# │ [███████████████████████████ ] 98% Complete...                                    │
+# │                                                                                   │
+# │ > 50+ projects retrieved                                                          │
+# │ > Top Technologies: React, Node.js, Python, Next.js, MongoDB                      │
+# │ > GitHub contributions: ACTIVE                                                    │
+# │                                                                                   │
+# ├──────────────────────────────────────────────────────────────────────────────────┤
+# │ deepanshu@kali:~$ nano ~/goals.txt                                               │
+# │                                                                                   │
+# │  2025 Goals:                                                                      │
+# │    - Build 50+ projects                                                           │
+# │    - Master backend & cloud technologies                                          │
+# │    - Contribute to open-source projects                                           │
+# │    - Gain deeper expertise in AI & automation                                    │
+# │                                                                                   │
+# │ deepanshu@kali:~$ traceroute --hops=5 future                                     │
+# │                                                                                   │
+# │ HOP   ADDRESS            STATUS                                                 │
+# │ 1     learning_phase     Acquiring new skills...                                │
+# │ 2     project_builds     Creating innovative solutions...                      │
+# │ 3     open_source        Contributing to the dev community...                  │
+# │ 4     ai_development     Exploring machine learning and AI...                  │
+# │ 5     mastery            Becoming a tech expert...                             │
+# │                                                                                   │
+# │ deepanshu@kali:~$ echo "System fully compromised. Profile unlocked."             │
+# │ System fully compromised. Profile unlocked.                                       │
+# ╰──────────────────────────────────────────────────────────────────────────────────╯
